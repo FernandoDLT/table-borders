@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    border-style: dotted;
+}
